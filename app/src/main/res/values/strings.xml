@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinCalculator</string>
+    <string name="enter_number_1">ENTER NUMBER 1</string>
+    <string name="enter_number_2">ENTER NUMBER 2</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="addition">+</string>
+    <string name="divide">/</string>
+</resources>
